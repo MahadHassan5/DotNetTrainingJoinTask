@@ -12,3 +12,4 @@ C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\ne
 C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.pdb
 C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.genruntimeconfig.cache
 C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\ref\DotNetTrainingJoinTask.dll
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.sourcelink.json
