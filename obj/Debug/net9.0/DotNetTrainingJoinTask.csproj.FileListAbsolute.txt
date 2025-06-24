@@ -1,0 +1,14 @@
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\bin\Debug\net9.0\DotNetTrainingJoinTask.exe
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\bin\Debug\net9.0\DotNetTrainingJoinTask.deps.json
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\bin\Debug\net9.0\DotNetTrainingJoinTask.runtimeconfig.json
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\bin\Debug\net9.0\DotNetTrainingJoinTask.dll
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\bin\Debug\net9.0\DotNetTrainingJoinTask.pdb
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.AssemblyInfoInputs.cache
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.AssemblyInfo.cs
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.csproj.CoreCompileInputs.cache
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.dll
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\refint\DotNetTrainingJoinTask.dll
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.pdb
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\DotNetTrainingJoinTask.genruntimeconfig.cache
+C:\Users\mahad.hassan\Desktop\DotNetTraining\DotNetTrainingJoinTask\obj\Debug\net9.0\ref\DotNetTrainingJoinTask.dll
